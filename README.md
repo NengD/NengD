@@ -5,7 +5,7 @@ Je suis un développeur en devenir, passionné par la conception logicielle et l
 ## 🚀 À propos de moi
 
 * 🎓 Actuellement en 3ème année de **BUT Informatique** à l'IUT d'Orléans.
-* 🎯 **Objectif :** Poursuivre vers un Master en informatique à la rentrée 2027, avec pour ambition d'évoluer à terme vers un poste de Chef de Projet Technique.
+* 🎯 **Objectif :** Poursuivre vers un Master en informatique à la rentrée 2027.
 * 💼 **Recherche :** Je suis activement à la recherche d'opportunités de stage pour mettre en pratique et consolider mon expertise.
 * 🌐 **Mon Portfolio :** [lucas-desgranges.netlify.app](https://lucas-desgranges.netlify.app)
 
@@ -16,9 +16,10 @@ Je suis un développeur en devenir, passionné par la conception logicielle et l
 * **Bases de données :** MySQL, MariaDB, SQLite, Neo4j (Cypher)
 * **DevOps & Outils :** Git, GitHub, Docker, Modélisation UML (MVC)
 
-## ⚡ En dehors du code
+## ⚡ Déconnexion Système (Centres d'intérêt)
 
-Quand je ne suis pas derrière mon IDE, j'occupe mon temps libre avec :
-* 🎮 La configuration matérielle (adaptations VR) et le modding avancé de jeux de rôle.
-* 🌌 L'exploration de l'univers et du lore de *Warhammer 40,000*.
-* 💪 Le sport (Musculation).
+Lorsque mon IDE est fermé et le terminal verrouillé, mes cycles processeur sont alloués à :
+
+* 🎮 **Simulation & Hardware :** Configuration matérielle (adaptations VR) et modding avancé de jeux de rôle.
+* 🌌 **Univers Sci-Fi :** Exploration approfondie du lore de *Warhammer 40,000*.
+* 💪 **Maintenance Physique :** Musculation.
