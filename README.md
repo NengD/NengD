@@ -9,17 +9,17 @@ Je suis un développeur en devenir, passionné par la conception logicielle et l
 * 💼 **Recherche :** Je suis activement à la recherche d'opportunités de stage pour mettre en pratique et consolider mon expertise.
 * 🌐 **Mon Portfolio :** [lucas-desgranges.netlify.app](https://lucas-desgranges.netlify.app)
 
-## 💻 Stack Technique & Outils
+## 💻 Technique & Outils
 
 * **Langages :** Python, Java (JavaFX), JavaScript, PHP, HTML/CSS
 * **Frameworks :** Flask, SQLAlchemy, Flutter
 * **Bases de données :** MySQL, MariaDB, SQLite, Neo4j (Cypher)
 * **DevOps & Outils :** Git, GitHub, Docker, Modélisation UML (MVC)
 
-## ⚡ Déconnexion Système (Centres d'intérêt)
+## ⚡ Centres d'intérêt
 
 Lorsque mon IDE est fermé et le terminal verrouillé, mes cycles processeur sont alloués à :
 
-* 🎮 **Simulation & Hardware :** Configuration matérielle (adaptations VR) et modding avancé de jeux de rôle.
+* 🎮 **Jeux Vidéos :** Solo, Coopération, Multijoueurs, Modding (Vortex) et VR. 
 * 🌌 **Univers Sci-Fi :** Exploration approfondie du lore de *Warhammer 40,000*.
 * 💪 **Maintenance Physique :** Musculation.
