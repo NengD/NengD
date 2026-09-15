@@ -1,6 +1,6 @@
 # Bonjour, je suis Lucas Desgranges 👋
 
-Je suis un développeur en devenir, passionné par la conception logicielle, le développement web et l'architecture des bases de données. 
+Je suis un développeur en devenir, passionné par la conception logicielle et le développement web. 
 
 ## 🚀 À propos de moi
 
