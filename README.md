@@ -8,6 +8,7 @@ Je suis un développeur en devenir, passionné par la conception logicielle et l
 * 🎯 **Objectif :** Poursuivre vers un Master en informatique à la rentrée 2027.
 * 💼 **Recherche :** Je suis activement à la recherche d'un stage en développement logiciel ou web de 14 à 16 semaines, à partir du 15 février 2027
 * 🌐 **Mon Portfolio :** [lucas-desgranges.netlify.app](https://lucas-desgranges.netlify.app)
+* 🔗 **LinkedIn :** [Lucas Desgranges](https://www.linkedin.com/in/lucas-desgranges-29a8a8388/)
 
 ## 💻 Technique & Outils
 
