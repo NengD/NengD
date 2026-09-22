@@ -6,7 +6,7 @@ Je suis un développeur en devenir, passionné par la conception logicielle et l
 
 * 🎓 Actuellement en 3ème année de **BUT Informatique** à l'IUT d'Orléans.
 * 🎯 **Objectif :** Poursuivre vers un Master en informatique à la rentrée 2027.
-* 💼 **Recherche :** Je suis activement à la recherche d'opportunités de stage pour mettre en pratique et consolider mon expertise.
+* 💼 **Recherche :** Je suis activement à la recherche d'un stage en développement logiciel ou web de 14 à 16 semaines, à partir du 15 février 2027
 * 🌐 **Mon Portfolio :** [lucas-desgranges.netlify.app](https://lucas-desgranges.netlify.app)
 
 ## 💻 Technique & Outils
